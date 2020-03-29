@@ -1,0 +1,14 @@
+Terraform-EdgeDevices/.terraform/
+Terraform-EdgeDevices/terraform.tfvars
+Terraform-EdgeDevices/servicePrincipal.json
+Terraform-EdgeDevices/terraform.tfstate
+Terraform-EdgeDevices/terraform.tfstate.backup
+Terraform-EdgeDevices/tfplan
+
+
+Terraform-IoTHub/.terraform/
+Terraform-IoTHub/azure-iot-test-only.root.ca.cert.pem
+Terraform-IoTHub/verification-code.cert.pem
+Terraform-IoTHub/tfplan
+Terraform-IoTHub/terraform.tfstate
+Terraform-IoTHub/terraform.tfstate.backup
