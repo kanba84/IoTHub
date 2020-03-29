@@ -1,5 +1,4 @@
 Terraform-EdgeDevices/.terraform/
-Terraform-EdgeDevices/terraform.tfvars
 Terraform-EdgeDevices/servicePrincipal.json
 Terraform-EdgeDevices/terraform.tfstate
 Terraform-EdgeDevices/terraform.tfstate.backup
